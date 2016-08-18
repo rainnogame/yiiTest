@@ -18,6 +18,6 @@ PUT /api/users/13 - обновляет пользователя с таким И
 
 ```
 api/modules/v1 - само REST API. За основу была взята реализация в Yii2
-frontend/web/phone_book_app - клиент (можно тестить тут - [http://851182.simplexi.web.hosting-test.net/frontend/web/])
+frontend/web/phone_book_app - клиент (можно тестить тут - [ВОТ ТУТ](http://851182.simplexi.web.hosting-test.net/frontend/web/))
 frontend/web/css - верстка
 ```
